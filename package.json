@@ -1,0 +1,35 @@
+{
+  "name": "stylelint-config-cg",
+  "version": "0.1.0",
+  "description": "stylelint config ready to be used in multiple projects",
+  "keywords": [
+    "stylelint",
+    "stylelint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "stylelint.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christowiz/stylelint-config-cg.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Gwizdala <christopher.gwizdala@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christowiz/stylelint-config-cg/issues"
+  },
+  "homepage": "https://github.com/christowiz/stylelint-config-cg#readme",
+  "peerDependencies": {
+    "stylelint": "10.0.1",
+    "stylelint-config-sass-guidelines": "6.0.0"
+  },
+  "dependencies": {
+    "stylelint": "10.0.1",
+    "stylelint-config-sass-guidelines": "6.0.0"
+  }
+}
